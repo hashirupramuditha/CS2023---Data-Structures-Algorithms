@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679999321 source:d:\semester 4\cs2023 - data structures and algorithms\in class labs\lab 3\recursive_quicksort\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
