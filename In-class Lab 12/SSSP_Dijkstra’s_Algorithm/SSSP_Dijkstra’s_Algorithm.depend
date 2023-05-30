@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685444295 source:d:\semester 4\cs2023 - data structures and algorithms\in class labs\in-class lab 12\sssp_dijkstra’s_algorithm\main.cpp
+	<limits.h>
+	<stdbool.h>
+	<stdio.h>
+
